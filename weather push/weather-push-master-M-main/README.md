@@ -7,7 +7,7 @@
 
 调试效果：
 
-![Image text](https://github.com/Liang-GR/weather-push/blob/M-main/weather%20push/weather-push-master-M-main/imgs/%E5%9B%BE%E7%89%878.jpg)
+![Image text](weather push/weather-push-master-M-main/imgs/图片8.jpg)
 
 开始搭建环境：
 
